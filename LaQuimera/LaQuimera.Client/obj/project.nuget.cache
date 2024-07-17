@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QUVu/PHnf4s=",
+  "dgSpecHash": "rxbUulfy0CU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera.Client\\LaQuimera.Client.csproj",
+  "projectFilePath": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera.Client\\LaQuimera.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NoxiePC\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\NoxiePC\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",

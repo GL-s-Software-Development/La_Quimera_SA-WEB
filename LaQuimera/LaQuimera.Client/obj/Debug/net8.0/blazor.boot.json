@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "LaQuimera.Client",
   "resources": {
-    "hash": "sha256-cqjxXRbQbPXMA9AKzSUpRxuhSRGXUedR8kWgZLyZsO0=",
+    "hash": "sha256-9gxsyvCqGd3H4fnKkI0w0RiAmkaOpmJBlA2jN8l6Wso=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.h7v6muplyr.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-fLbZiSHBNdpHoh4EgRqMaNP5NQyIK5TEj6AXFLqo8m8=",
       "netstandard.wasm": "sha256-d4xbAE8qrKq5euUoZHPO+jkYPjlCYBzUew45MKsYKic=",
       "System.Private.CoreLib.wasm": "sha256-8yi6NcX1lkNQgV4WKjnMBYIZyKh4P+OXnXVQmgxGZD4=",
-      "LaQuimera.Client.wasm": "sha256-6irt1p7CcWLGzuXkgI0W8iyS1MklOjQ9N+c8mnKNX1c="
+      "LaQuimera.Client.wasm": "sha256-jDKm3x+UPzC1fl6HUsVdhLCPDbf8OMkKI0PW07ceiGE="
     },
     "pdb": {
-      "LaQuimera.Client.pdb": "sha256-KXYxE3hiA1SKhmhH5Zst9XgteILNCzAv31Wf3HjqXoI="
+      "LaQuimera.Client.pdb": "sha256-KeIX9Z/zz16turBDx0BCCTbW5EhO1HhPK3Iox+VCF7c="
     }
   },
   "cacheBootResources": true,

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaQuimera.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d135264145c2dd41a3bd62f5cd93c3555e7e119d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f63cb5a5daa6f6707a69531727b90bb604dc547d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaQuimera.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaQuimera.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

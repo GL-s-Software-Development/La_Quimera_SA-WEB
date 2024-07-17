@@ -1,55 +1,67 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\calabaza.png",
-      "PackagePath": "staticwebassets\\resources\\images\\calabaza.png"
-    },
-    {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\cana-de-azucar.png",
-      "PackagePath": "staticwebassets\\resources\\images\\cana-de-azucar.png"
-    },
-    {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\centeno-planta.png",
-      "PackagePath": "staticwebassets\\resources\\images\\centeno-planta.png"
-    },
-    {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\certificado.png",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\certificado.png",
       "PackagePath": "staticwebassets\\resources\\images\\certificado.png"
     },
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\contact.png",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\contact.png",
       "PackagePath": "staticwebassets\\resources\\images\\contact.png"
     },
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\cultivos-siembra.png",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\crops\\calabaza.png",
+      "PackagePath": "staticwebassets\\resources\\images\\crops\\calabaza.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\crops\\cana-de-azucar.png",
+      "PackagePath": "staticwebassets\\resources\\images\\crops\\cana-de-azucar.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\crops\\centeno-planta.png",
+      "PackagePath": "staticwebassets\\resources\\images\\crops\\centeno-planta.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\crops\\soja-2.png",
+      "PackagePath": "staticwebassets\\resources\\images\\crops\\soja-2.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\crops\\soja.png",
+      "PackagePath": "staticwebassets\\resources\\images\\crops\\soja.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\crops\\trigo.png",
+      "PackagePath": "staticwebassets\\resources\\images\\crops\\trigo.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\cultivos-siembra.png",
       "PackagePath": "staticwebassets\\resources\\images\\cultivos-siembra.png"
     },
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\logo.png",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\implements\\cosechadora.png",
+      "PackagePath": "staticwebassets\\resources\\images\\implements\\cosechadora.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\implements\\pulverizadora.png",
+      "PackagePath": "staticwebassets\\resources\\images\\implements\\pulverizadora.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\implements\\tractor.png",
+      "PackagePath": "staticwebassets\\resources\\images\\implements\\tractor.png"
+    },
+    {
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\logo.png",
       "PackagePath": "staticwebassets\\resources\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\logoLeon.png",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\logoLeon.png",
       "PackagePath": "staticwebassets\\resources\\images\\logoLeon.png"
     },
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\soja-2.png",
-      "PackagePath": "staticwebassets\\resources\\images\\soja-2.png"
-    },
-    {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\soja.png",
-      "PackagePath": "staticwebassets\\resources\\images\\soja.png"
-    },
-    {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\images\\trigo.png",
-      "PackagePath": "staticwebassets\\resources\\images\\trigo.png"
-    },
-    {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\styles\\css\\app.css",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\styles\\css\\app.css",
       "PackagePath": "staticwebassets\\resources\\styles\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La Quimera S.A - WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\styles\\css\\sites.css",
+      "Id": "C:\\Users\\NoxiePC\\source\\repos\\La_Quimera_SA-WEB\\LaQuimera\\LaQuimera\\wwwroot\\resources\\styles\\css\\sites.css",
       "PackagePath": "staticwebassets\\resources\\styles\\css\\sites.css"
     },
     {
