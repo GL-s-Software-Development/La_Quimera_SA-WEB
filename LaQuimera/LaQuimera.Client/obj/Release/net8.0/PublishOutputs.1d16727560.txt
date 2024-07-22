@@ -1,0 +1,1 @@
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera.Client\bin\Release\net8.0\publish\web.config
