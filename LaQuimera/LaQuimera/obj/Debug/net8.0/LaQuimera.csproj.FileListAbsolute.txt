@@ -1,0 +1,171 @@
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.staticwebassets.runtime.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\appsettings.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.staticwebassets.runtime.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.exe
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.deps.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.runtimeconfig.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.pdb
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.pdb
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.AssemblyReference.cache
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.AssemblyInfoInputs.cache
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.AssemblyInfo.cs
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.CoreCompileInputs.cache
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.LaQuimera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.build.LaQuimera.props
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaQuimera.props
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaQuimera.props
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\scopedcss\bundle\LaQuimera.styles.css
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.Up2Date
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\refint\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.pdb
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.genruntimeconfig.cache
+C:\Users\NoxiePC\source\repos\La Quimera S.A - WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\ref\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.staticwebassets.runtime.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\appsettings.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.staticwebassets.runtime.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.exe
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.deps.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.runtimeconfig.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.pdb
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.pdb
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.AssemblyReference.cache
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.AssemblyInfoInputs.cache
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.AssemblyInfo.cs
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.CoreCompileInputs.cache
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.sourcelink.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.LaQuimera.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.build.LaQuimera.props
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaQuimera.props
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaQuimera.props
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\scopedcss\bundle\LaQuimera.styles.css
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.Up2Date
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\refint\LaQuimera.dll
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.pdb
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.genruntimeconfig.cache
+C:\Users\NoxiePC\source\repos\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\ref\LaQuimera.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\appsettings.Development.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\appsettings.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.staticwebassets.runtime.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.staticwebassets.endpoints.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.staticwebassets.runtime.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.staticwebassets.endpoints.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.exe
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.deps.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.runtimeconfig.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.pdb
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\bin\Debug\net8.0\LaQuimera.Client.pdb
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.AssemblyReference.cache
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.AssemblyInfoInputs.cache
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.AssemblyInfo.cs
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.CoreCompileInputs.cache
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.MvcApplicationPartsAssemblyInfo.cache
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.sourcelink.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\scopedcss\bundle\LaQuimera.styles.css
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.build.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.development.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.csproj.Up2Date
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\refint\LaQuimera.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.pdb
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\LaQuimera.genruntimeconfig.cache
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\ref\LaQuimera.dll
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\02.Desarrollo de Proyectos\01.C# .Net Core\La_Quimera_SA-WEB\LaQuimera\LaQuimera\obj\Debug\net8.0\staticwebassets.build.json.cache
