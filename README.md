@@ -2,7 +2,7 @@
 
 Este proyecto es la página web oficial de **La Quimera S.A**, una empresa dedicada a la siembra y cultivo de caña de azúcar, trigo, soja y zapallo, además de ofrecer servicios de pulverización y cosecha de caña de azúcar.  
 
-El sitio fue desarrollado con **Blazor WebAssembly** utilizando **.NET 7**, pensado para ser **responsivo**, moderno y desplegado de manera sencilla en **GitHub Pages**.
+El sitio fue desarrollado con **Blazor WebAssembly** utilizando **.NET 7**, pensado para ser **responsivo**, moderno y desplegado de manera sencilla.
 
 ---
 
