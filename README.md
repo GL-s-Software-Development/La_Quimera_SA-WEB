@@ -6,6 +6,24 @@ El sitio fue desarrollado con **Blazor WebAssembly** utilizando **.NET 7**, pens
 
 ---
 
+
+## 🖼️ Capturas del sistema
+
+- Inicio
+<img width="1917" height="946" alt="image" src="https://github.com/user-attachments/assets/856ee176-f291-4228-8479-dcd9bac3b701" />
+
+- Cultivos
+<img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/dbf35eda-938d-4cf9-a08d-bef72d38f05b" />
+
+- Servicios
+<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/6b5e79ce-7133-423b-89af-b17f6422913c" />
+
+- Sobre Nosotros
+<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/ce6175fb-72ac-4562-8fff-76bf88a16809" />
+
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
 - **.NET 7** → Framework principal para construir aplicaciones modernas.
